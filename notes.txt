@@ -1,0 +1,5 @@
+Mongo by default creates object id for every document
+Each object id is unique and used to identify the document
+
+object id is a random number but actually it contains the date and time that document has been created,
+we can fetch that using object id to timestamp converter
